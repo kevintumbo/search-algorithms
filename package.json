@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "a project for demonstating understanding of algorithms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithms",
+    "binary",
+    "linear",
+    "in-order",
+    "pre-order",
+    "post-order",
+    "breadth-first",
+    "depth-first",
+    "dijkstra's"
+  ],
+  "author": "Kevin tumbo",
+  "license": "ISC"
+}
